@@ -3,5 +3,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/FunnieMoney81/Travel-with-Pi.git
+git remote add origin https://piairlineservices.com/e278898bfc415657fd29dd85d5d9ee31af857da73ac3079f93277010c3745350415913f0a880de34064af2167832af783d9802e9bd66842a6d60a5563d97043c.txt
 git push -u origin main
